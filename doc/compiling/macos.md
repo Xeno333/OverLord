@@ -16,7 +16,7 @@ brew install cmake freetype gettext gmp hiredis jpeg-turbo jsoncpp leveldb libog
 Download source (this is the URL to the latest of source repository, which might not work at all times) using Git:
 
 ```bash
-git clone --depth 1 https://github.com/minetest/minetest.git
+git clone --depth 1 https://github.com/Xeno333/OverLord.git
 cd minetest
 ```
 
