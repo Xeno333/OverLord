@@ -70,7 +70,7 @@ For Void users:
 Download source (this is the URL to the latest of source repository, which might not work at all times) using Git:
 
     git clone --depth 1 https://github.com/Xeno333/OverLord.git
-    cd minetest
+    cd OverLord
 
 Download source, without using Git:
 
