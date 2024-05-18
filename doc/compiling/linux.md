@@ -69,14 +69,14 @@ For Void users:
 
 Download source (this is the URL to the latest of source repository, which might not work at all times) using Git:
 
-    git clone --depth 1 https://github.com/minetest/minetest.git
+    git clone --depth 1 https://github.com/Xeno333/OverLord.git
     cd minetest
 
 Download source, without using Git:
 
-    wget https://github.com/minetest/minetest/archive/master.tar.gz
-    tar xf master.tar.gz
-    cd minetest-master
+    wget https://github.com/Xeno333/OverLord/archive/master.tar.gz
+    tar xf OverLord.tar.gz
+    cd OverLord-master
 
 ## Build
 
